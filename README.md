@@ -18,4 +18,8 @@ railtrace/
 └── README.md
 ```
 
+## Deployed Link
+
+https://railtrace47.vercel.app
+
 ---
