@@ -236,7 +236,7 @@ export default function Home() {
         </main>
 
         <footer className="site-footer">
-          RailTrace · Indian Railways AI · Next.js + Groq · Free forever
+          RailTrace · Indian Railways AI · Free forever
         </footer>
       </div>
 
